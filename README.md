@@ -18,6 +18,4 @@ Long after the employee left Trovit, his contribution to the knowledge of the co
 
 Also, when one of us looks for a job in the future, being a contributor to the formation plan of the company is always a plus ;)
 
-##
-
-The greatest enemy of knowledge is not ignorance; it is the illusion of knowledge. Stephen Hawking.
+> The greatest enemy of knowledge is not ignorance; it is the illusion of knowledge. Stephen Hawking.
