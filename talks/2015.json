@@ -1,0 +1,19 @@
+[{
+  "date": "",
+  "talks": [{
+    "title": "Basics web performance explained (really basic!)",
+    "speaker": {
+      "name": "Dario Barrio",
+      "twitter": "DaryBarrio",
+      "linkedin": "http://es.linkedin.com/in/dariobarrio",
+      "portrait": "https://pbs.twimg.com/profile_images/458904412119773184/B-PXsUNo_400x400.jpeg"
+    },
+    "level": "Begginer",
+    "duration": "40 minutes",
+    "language": "es",
+    "git": "",
+    "slides": "",
+    "video": "",
+    "description": "En 40 minutos vamos a intentar repasar de manera fugaz todas las reglas básicas de web performance y cómo se están aplicando en Trovit."
+  }]
+}]
